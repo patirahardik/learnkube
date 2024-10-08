@@ -20,3 +20,10 @@
 ```
 # kubectl edit replicasets <replicaset name>
 ```
+
+
+#### Increasing the number of replicas without edits the files.
+
+```
+# kubectl scale rs new-replica-set --replica=5
+```
