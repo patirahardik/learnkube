@@ -18,5 +18,5 @@
 #### Edit runtime replicas set file
 
 ```
-# ubectl edit replicasets <replicaset name>
+# kubectl edit replicasets <replicaset name>
 ```
